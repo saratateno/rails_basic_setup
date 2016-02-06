@@ -41,6 +41,8 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'factory_girl_rails'
+  gem 'dotenv-rails'
+  gem 'omniauth-facebook'
 end
 
 group :development do
